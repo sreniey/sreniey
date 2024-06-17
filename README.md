@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @sreniey
-- 👀 I’m interested in learning to code asap
+
